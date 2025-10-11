@@ -3,7 +3,7 @@
     {
       "name": "BMI Calculator",
       "package": "com.appora.bmicalculator",
-      "icon": "https://raw.githubusercontent.com/<your-username>/appora-directory/main/icons/bmi.png",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/bmi_calculator.png",
       "description": "Calculate your BMI quickly and track your health.",
       "category": "Health"
     },
