@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "name": "BMI Calculator",
+      "package": "com.appora.bmicalculator",
+      "icon": "https://raw.githubusercontent.com/<your-username>/appora-directory/main/icons/bmi.png",
+      "description": "Calculate your BMI quickly and track your health.",
+      "category": "Health"
+    },
+    {
+      "name": "Torch Light",
+      "package": "com.appora.torch",
+      "icon": "https://raw.githubusercontent.com/<your-username>/appora-directory/main/icons/torch.png",
+      "description": "Simple and bright flashlight with SOS mode.",
+      "category": "Utility"
+    }
+  ]
+}
