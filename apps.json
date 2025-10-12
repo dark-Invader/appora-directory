@@ -9,7 +9,7 @@
     },
     {
       "name": "Torch Light",
-      "package": "com.appora.torch",
+      "package": "com.appora.torchflashlight",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
       "description": "Simple and bright flashlight with SOS mode.",
       "category": "Utility"
