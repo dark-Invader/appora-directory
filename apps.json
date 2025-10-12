@@ -17,7 +17,7 @@
     {
       "name": "Battery Health Monitor",
       "package": "com.appora.batteryhealth",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
       "description": "Monitor battery health, charge status, temperature & voltage in real time",
       "category": "Utility"
     }
