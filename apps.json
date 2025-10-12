@@ -18,6 +18,36 @@
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
       "description": "Monitor battery health, charge status, temperature & voltage in real time",
       "category": "Utility"
+    },
+    {
+      "name": "Age Calculator",
+      "package": "com.appora.agecalculator",
+      "icon": "https://raw.githubusercontent.com/yourusername/appora-directory/main/icons/age.png",
+      "description": "Simple age calculator with birthday countdown & total days lived."
+    },
+    {
+      "name": "Panchang & Muhurat",
+      "package": "com.appora.panchang",
+      "icon": "https://raw.githubusercontent.com/yourusername/appora-directory/main/icons/panchang.png",
+      "description": "Daily Tithi, Nakshatra & Shubh/Ashubh Muhurt in one app"
+    },
+    {
+      "name": "FinUtil",
+      "package": "com.palasha.finutil",
+      "icon": "https://raw.githubusercontent.com/yourusername/appora-directory/main/icons/finutil.png",
+      "description": "All-in-one finance tools – EMI, SIP, and personal finance calculators."
+    },
+    {
+      "name": "Jumper Boy",
+      "package": "com.palasha.jumperboyadventures",
+      "icon": "https://raw.githubusercontent.com/yourusername/appora-directory/main/icons/jumper.png",
+      "description": "Jump, dodge, and survive endless obstacles in this fun arcade game!"
+    },
+    {
+      "name": "Basket Ball Shooting",
+      "package": "com.palasha.basketballshoot",
+      "icon": "https://raw.githubusercontent.com/yourusername/appora-directory/main/icons/basketball.png",
+      "description": "Swipe, shoot, and score in this addictive basketball game."
     }
   ]
 }
