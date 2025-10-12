@@ -13,6 +13,13 @@
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
       "description": "Simple and bright flashlight with SOS mode.",
       "category": "Utility"
+    },
+    {
+      "name": "Battery Health Monitor",
+      "package": "com.appora.batteryhealth",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
+      "description": "Monitor battery health, charge status, temperature & voltage in real time",
+      "category": "Utility"
     }
   ]
 }
