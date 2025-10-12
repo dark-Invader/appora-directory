@@ -4,15 +4,13 @@
       "name": "BMI Calculator",
       "package": "com.appora.bmicalculator",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/bmi_calculator.png",
-      "description": "Calculate your BMI quickly and track your health.",
-      "category": "Health"
+      "description": "Calculate BMI in kg, lbs, cm, ft+in with Body Mass Index categories"
     },
     {
       "name": "Torch Light",
       "package": "com.appora.torchflashlight",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
-      "description": "Simple and bright flashlight with SOS mode.",
-      "category": "Utility"
+      "description": "Free flashlight torch with SOS & strobe – bright LED light for your phone"
     },
     {
       "name": "Battery Health Monitor",
