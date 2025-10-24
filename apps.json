@@ -1,5 +1,11 @@
 {
   "apps": [
+{
+      "name": "Internet Speed Test",
+      "package": "com.appora.internetspeed",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/internet_speed_test.png",
+      "description": "Test your WiFi & mobile speed instantly. Check download, upload, ping & more!"
+    },
     {
       "name": "BMI Calculator",
       "package": "com.appora.bmicalculator",
