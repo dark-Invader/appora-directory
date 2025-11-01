@@ -5,6 +5,11 @@
       "package": "com.appora.internetspeed",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/internet_speed_test.png",
       "description": "Test your WiFi & mobile speed instantly. Check download, upload, ping & more!"
+    },{
+      "name": "Appora Qr Scanner",
+      "package": "com.appora.qrscanner",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/qr_scanner.png",
+      "description": "Scan, generate and share QR codes instantly. Fast, simple and ad-light!"
     },
     {
       "name": "BMI Calculator",
