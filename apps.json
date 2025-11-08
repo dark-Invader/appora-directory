@@ -29,6 +29,12 @@
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
       "description": "Free flashlight torch with SOS & strobe – bright LED light for your phone"
     },
+     {
+      "name": "Panchang & Muhurat",
+      "package": "com.appora.panchang",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/panchang_app.png",
+      "description": "Daily Tithi, Nakshatra & Shubh/Ashubh Muhurt in one app"
+    },
     {
       "name": "Battery Health Monitor",
       "package": "com.appora.batteryhealth",
@@ -41,12 +47,6 @@
       "package": "com.appora.agecalculator",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/age_calculator.png",
       "description": "Simple age calculator with birthday countdown & total days lived."
-    },
-    {
-      "name": "Panchang & Muhurat",
-      "package": "com.appora.panchang",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/panchang.png",
-      "description": "Daily Tithi, Nakshatra & Shubh/Ashubh Muhurt in one app"
     },
     {
       "name": "FinUtil",
