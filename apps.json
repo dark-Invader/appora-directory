@@ -1,6 +1,12 @@
 {
   "apps": [
-{
+    {
+      "name": "Days Since – Streak Tracker",
+      "package": "com.appora.countdowntracker",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/day_since_app.png",
+      "description": "Track days since or until events. Build streaks, goals, and stay motivated"
+    },
+   {
       "name": "Internet Speed Test",
       "package": "com.appora.internetspeed",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/internet_speed_test.png",
