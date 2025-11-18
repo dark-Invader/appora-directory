@@ -6,6 +6,12 @@
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/day_since_app.png",
       "description": "Track days since or until events. Build streaks, goals, and stay motivated"
     },
+    {
+      "name": "EMI & Loan Calculator – India",
+      "package": "com.appora.emicalculator",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/emi_calculator.png",
+      "description": "Calculate EMI instantly for home, car & personal loans. Made for India"
+    },
    {
       "name": "Internet Speed Test",
       "package": "com.appora.internetspeed",
