@@ -20,7 +20,7 @@
     },{
       "name": "QR & Barcode Scanner",
       "package": "com.appora.qrscanner",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/qr_scanner.png",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/qr_code_icon.png",
       "description": "Scan, generate and share QR codes instantly. Fast, simple and ad-light!"
     },
     {
