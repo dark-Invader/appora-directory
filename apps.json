@@ -18,10 +18,10 @@
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/internet_speed_test.png",
       "description": "Test your WiFi & mobile speed instantly. Check download, upload, ping & more!"
     },{
-      "name": "QR & Barcode Scanner",
+      "name": "Fast QR Scanner & Barcode",
       "package": "com.appora.qrscanner",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/qr_code_icon.png",
-      "description": "Scan, generate and share QR codes instantly. Fast, simple and ad-light!"
+      "description": "Fast QR & barcode scanner. Scan, generate and share codes instantly."
     },
     {
       "name": "BMI Calculator",
