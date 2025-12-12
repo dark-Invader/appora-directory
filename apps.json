@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "name": "New Year Countdown Widget",
+      "package": "com.appora.newyearwidget",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/new_year_widget.png",
+      "description": "🎉 Beautiful New Year countdown widget for your home screen."
+    },
+    {
       "name": "Ultra Unit Converter",
       "package": "com.appora.unitconverter",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/unit_converter.png",
