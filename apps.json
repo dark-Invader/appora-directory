@@ -7,6 +7,12 @@
       "description": "🎉 Beautiful New Year countdown widget for your home screen."
     },
     {
+      "name": "PdfScanner – Scan to PDF",
+      "package": "com.appora.pdfscanner",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/pdf_scanner.png",
+      "description": "Scan documents, auto-detect edges, crop, enhance & create multi-page PDFs."
+    },
+    {
       "name": "Ultra Unit Converter",
       "package": "com.appora.unitconverter",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/unit_calculator.png",
