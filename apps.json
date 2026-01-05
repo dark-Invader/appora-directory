@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "name": "New Year Countdown Widget",
-      "package": "com.appora.newyearwidget",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/new_year_widget.png",
-      "description": "🎉 Beautiful New Year countdown widget for your home screen."
+      "name": "Tic Tac Toe – 2 Player Game",
+      "package": "com.appora.tictactoe",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/tic-tac-toe.png",
+      "description": "Classic Tic Tac Toe game. Play with a friend or challenge the computer offline"
     },
     {
       "name": "PdfScanner – Scan to PDF",
@@ -77,6 +77,12 @@
       "package": "com.palasha.finutil",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/fin_util.png",
       "description": "All-in-one finance tools – EMI, SIP, and personal finance calculators."
+    },
+    {
+      "name": "New Year Countdown Widget",
+      "package": "com.appora.newyearwidget",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/new_year_widget.png",
+      "description": "🎉 Beautiful New Year countdown widget for your home screen."
     },
     {
       "name": "Jumper Boy",
