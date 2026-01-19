@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "name": "Image to PDF Converter",
+      "package": "com.appora.imagetopdf",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/image-to-pdf.png",
+      "description": "Convert images to PDF instantly. Create PDF from photos, JPG & PNG files"
+    },
+    {
       "name": "Tic Tac Toe – 2 Player Game",
       "package": "com.appora.tictactoe",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/tic-tac-toe.png",
