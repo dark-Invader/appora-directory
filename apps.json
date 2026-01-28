@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "name": "Valentine Love Countdown",
+      "package": "com.appora.valentine",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/valentine.png",
+      "description": "Countdown to Valentine’s Day & celebrate every romantic moment ❤️"
+    },
+    {
       "name": "Image to PDF Converter",
       "package": "com.appora.imagetopdf",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/image-to-pdf.png",
