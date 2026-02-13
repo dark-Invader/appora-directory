@@ -7,6 +7,12 @@
       "description": "Countdown to Valentine’s Day & celebrate every romantic moment ❤️"
     },
     {
+      "name": "Life Snapshot – My Life So Far",
+      "package": "com.appora.lifegrowthtracker",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/life-tracker.png",
+      "description": "A quiet snapshot of your life so far."
+    },
+    {
       "name": "Image to PDF Converter",
       "package": "com.appora.imagetopdf",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/image-to-pdf.png",
