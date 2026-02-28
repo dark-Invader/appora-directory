@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "name": "Valentine Love Countdown",
-      "package": "com.appora.valentine",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/valentine.png",
-      "description": "Countdown to Valentine’s Day & celebrate every romantic moment ❤️"
+      "name": "Streak Counter – Daily Habits",
+      "package": "com.appora.streakcounter",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
+      "description": "Track habits with a clean daily streak counter app."
     },
     {
       "name": "Life Snapshot – My Life So Far",
@@ -95,6 +95,12 @@
       "package": "com.palasha.finutil",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/fin_util.png",
       "description": "All-in-one finance tools – EMI, SIP, and personal finance calculators."
+    },
+    {
+      "name": "Valentine Love Countdown",
+      "package": "com.appora.valentine",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/valentine.png",
+      "description": "Countdown to Valentine’s Day & celebrate every romantic moment ❤️"
     },
     {
       "name": "New Year Countdown Widget",
