@@ -1,6 +1,19 @@
 {
   "apps": [
     {
+      "name": "Days Since – Streak Tracker",
+      "package": "com.appora.countdowntracker",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/day_since_app.png",
+      "description": "Track days since or until events. Build streaks, goals, and stay motivated"
+    },
+    {
+      "name": "Battery Health Monitor",
+      "package": "com.appora.batteryhealth",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
+      "description": "Monitor battery health, charge status, temperature & voltage in real time",
+      "category": "Utility"
+    },
+    {
       "name": "Streak Counter – Daily Habits",
       "package": "com.appora.streakcounter",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
@@ -37,12 +50,6 @@
       "description": "Convert any unit instantly. Fast, accurate & easy — all units in one app."
     },
     {
-      "name": "Days Since – Streak Tracker",
-      "package": "com.appora.countdowntracker",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/day_since_app.png",
-      "description": "Track days since or until events. Build streaks, goals, and stay motivated"
-    },
-    {
       "name": "EMI & Loan Calculator – India",
       "package": "com.appora.emicalculator",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/emi_calculator.png",
@@ -70,13 +77,6 @@
       "package": "com.appora.torchflashlight",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
       "description": "Free flashlight torch with SOS & strobe – bright LED light for your phone"
-    },
-    {
-      "name": "Battery Health Monitor",
-      "package": "com.appora.batteryhealth",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
-      "description": "Monitor battery health, charge status, temperature & voltage in real time",
-      "category": "Utility"
     },
      {
       "name": "Panchang & Muhurat",
