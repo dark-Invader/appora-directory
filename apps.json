@@ -32,6 +32,12 @@
       "description": "Track days until World Cup 2026. Live football world cup countdown timer"
     },
     {
+      "name": "World Cup Kickoff Time Converter",
+      "package": "com.appora.kickofftimeconverter",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_time_converter.png",
+      "description": "Convert FIFA World Cup match time to your local timezone instantly"
+    },
+    {
       "name": "Image to PDF Converter",
       "package": "com.appora.imagetopdf",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/image-to-pdf.png",
