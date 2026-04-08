@@ -25,6 +25,12 @@
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/life-tracker.png",
       "description": "A quiet snapshot of your life so far."
     },
+     {
+      "name": "World Cup 2026 Schedule",
+      "package": "com.appora.worldcupschedule",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_schedule.png",
+      "description": "Track schedule, countdown & match reminders easily"
+    },
     {
       "name": "World Cup 2026 Countdown Widget",
       "package": "com.appora.worldcupcountdown",
