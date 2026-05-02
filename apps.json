@@ -14,18 +14,6 @@
       "category": "Utility"
     },
     {
-      "name": "Streak Counter – Daily Habits",
-      "package": "com.appora.streakcounter",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
-      "description": "Track habits with a clean daily streak counter app."
-    },
-    {
-      "name": "Life Snapshot – My Life So Far",
-      "package": "com.appora.lifegrowthtracker",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/life-tracker.png",
-      "description": "A quiet snapshot of your life so far."
-    },
-     {
       "name": "World Cup Schedule 2026",
       "package": "com.appora.worldcupschedule",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_schedule.png",
@@ -42,6 +30,18 @@
       "package": "com.appora.kickofftimeconverter",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_time_converter.png",
       "description": "Convert FIFA World Cup match time to your local timezone instantly"
+    },
+    {
+      "name": "Streak Counter – Daily Habits",
+      "package": "com.appora.streakcounter",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
+      "description": "Track habits with a clean daily streak counter app."
+    },
+    {
+      "name": "Life Snapshot – My Life So Far",
+      "package": "com.appora.lifegrowthtracker",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/life-tracker.png",
+      "description": "A quiet snapshot of your life so far."
     },
     {
       "name": "Image to PDF Converter",
