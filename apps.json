@@ -20,12 +20,6 @@
       "description": "Track schedule, countdown & match reminders easily"
     },
     {
-      "name": "World Cup 2026 Countdown Widget",
-      "package": "com.appora.worldcupcountdown",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_countdown.png",
-      "description": "Track days until World Cup 2026. Live football world cup countdown timer"
-    },
-    {
       "name": "World Cup Kickoff Time Converter",
       "package": "com.appora.kickofftimeconverter",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_time_converter.png",
