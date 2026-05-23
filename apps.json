@@ -1,17 +1,10 @@
 {
   "apps": [
     {
-      "name": "Days Since – Streak Tracker",
-      "package": "com.appora.countdowntracker",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/day_since_app.png",
-      "description": "Track days since or until events. Build streaks, goals, and stay motivated"
-    },
-    {
-      "name": "Battery Health Monitor",
-      "package": "com.appora.batteryhealth",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
-      "description": "Monitor battery health, charge status, temperature & voltage in real time",
-      "category": "Utility"
+      "name": "Streak Counter – Daily Habits",
+      "package": "com.appora.streakcounter",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
+      "description": "Track habits with a clean daily streak counter app."
     },
     {
       "name": "World Cup Schedule 2026",
@@ -26,10 +19,17 @@
       "description": "Convert FIFA World Cup match time to your local timezone instantly"
     },
     {
-      "name": "Streak Counter – Daily Habits",
-      "package": "com.appora.streakcounter",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
-      "description": "Track habits with a clean daily streak counter app."
+      "name": "Battery Health Monitor",
+      "package": "com.appora.batteryhealth",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
+      "description": "Monitor battery health, charge status, temperature & voltage in real time",
+      "category": "Utility"
+    },
+    {
+      "name": "Days Since – Streak Tracker",
+      "package": "com.appora.countdowntracker",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/day_since_app.png",
+      "description": "Track days since or until events. Build streaks, goals, and stay motivated"
     },
     {
       "name": "Life Snapshot – My Life So Far",
