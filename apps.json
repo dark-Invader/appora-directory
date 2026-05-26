@@ -7,12 +7,6 @@
       "description": "Track habits with a clean daily streak counter app."
     },
     {
-      "name": "World Cup Schedule 2026",
-      "package": "com.appora.worldcupschedule",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_schedule.png",
-      "description": "Track schedule, countdown & match reminders easily"
-    },
-    {
       "name": "World Cup Kickoff Time Converter",
       "package": "com.appora.kickofftimeconverter",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_time_converter.png",
