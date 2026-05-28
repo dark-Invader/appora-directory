@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "Streak Counter – Daily Habits",
+      "name": "Streak Counter – Daily Habits ",
       "package": "com.appora.streakcounter",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
       "description": "Track habits with a clean daily streak counter app."
