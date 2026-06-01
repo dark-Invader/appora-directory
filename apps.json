@@ -1,16 +1,22 @@
 {
   "apps": [
     {
-      "name": "Streak Counter – Daily Habits",
-      "package": "com.appora.streakcounter",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
-      "description": "Track habits with a clean daily streak counter app."
+      "name": "⚽ Football Worldcup 2026 Schedule",
+      "package": "com.appora.footballschedule",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_schedule.png",
+      "description": "Never miss a match — get fixtures, kickoff times & tournament updates."
     },
     {
       "name": "Women's T20 World Cup Schedule",
       "package": "com.appora.woment20worldcup",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/woment20worldcup.png",
       "description": "Women’s T20 World Cup schedule, fixtures & match reminders."
+    },
+    {
+      "name": "Streak Counter – Daily Habits",
+      "package": "com.appora.streakcounter",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
+      "description": "Track habits with a clean daily streak counter app."
     },
     {
       "name": "World Cup Kickoff Time Converter",
