@@ -25,6 +25,12 @@
       "description": "Convert FIFA World Cup match time to your local timezone instantly"
     },
     {
+      "name": "Aarti Sangrah Hindi",
+      "package": "com.palasha.artiSangrah",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/aarti-sangrah.png",
+      "description": "Aarti Sangrah Hindi with Hanuman Chalisa, Ganesh Aarti, Durga Aarti & more."
+    },
+    {
       "name": "Battery Health Monitor",
       "package": "com.appora.batteryhealth",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
