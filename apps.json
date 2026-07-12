@@ -13,17 +13,16 @@
       "description": "Track habits with a clean daily streak counter app."
     },
     {
+      "name": "Life Snapshot – My Life So Far",
+      "package": "com.appora.lifegrowthtracker",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/life-tracker.png",
+      "description": "A quiet snapshot of your life so far."
+    },
+    {
       "name": "Aarti Sangrah Hindi",
       "package": "com.palasha.artiSangrah",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/aarti-sangrah.png",
       "description": "Aarti Sangrah Hindi with Hanuman Chalisa, Ganesh Aarti, Durga Aarti & more."
-    },
-    {
-      "name": "Battery Health Monitor",
-      "package": "com.appora.batteryhealth",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
-      "description": "Monitor battery health, charge status, temperature & voltage in real time",
-      "category": "Utility"
     },
     {
       "name": "Days Since – Streak Tracker",
@@ -38,10 +37,11 @@
       "description": "🎉 Beautiful New Year countdown widget for your home screen."
     },
     {
-      "name": "Life Snapshot – My Life So Far",
-      "package": "com.appora.lifegrowthtracker",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/life-tracker.png",
-      "description": "A quiet snapshot of your life so far."
+      "name": "Battery Health Monitor",
+      "package": "com.appora.batteryhealth",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/battery_health_monitor.png",
+      "description": "Monitor battery health, charge status, temperature & voltage in real time",
+      "category": "Utility"
     },
     {
       "name": "Image to PDF Converter",
