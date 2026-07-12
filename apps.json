@@ -7,22 +7,10 @@
       "description": "Never miss a match — get fixtures, kickoff times & tournament updates."
     },
     {
-      "name": "Women's T20 World Cup Schedule",
-      "package": "com.appora.woment20worldcup",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/woment20worldcup.png",
-      "description": "Women’s T20 World Cup schedule, fixtures & match reminders."
-    },
-    {
       "name": "Streak Counter – Daily Habits",
       "package": "com.appora.streakcounter",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/streak-counter.png",
       "description": "Track habits with a clean daily streak counter app."
-    },
-    {
-      "name": "World Cup Kickoff Time Converter",
-      "package": "com.appora.kickofftimeconverter",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_time_converter.png",
-      "description": "Convert FIFA World Cup match time to your local timezone instantly"
     },
     {
       "name": "Aarti Sangrah Hindi",
@@ -42,6 +30,12 @@
       "package": "com.appora.countdowntracker",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/day_since_app.png",
       "description": "Track days since or until events. Build streaks, goals, and stay motivated"
+    },
+    {
+      "name": "New Year Countdown Widget",
+      "package": "com.appora.newyearwidget",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/new_year_widget.png",
+      "description": "🎉 Beautiful New Year countdown widget for your home screen."
     },
     {
       "name": "Life Snapshot – My Life So Far",
@@ -127,12 +121,6 @@
       "description": "Countdown to Valentine’s Day & celebrate every romantic moment ❤️"
     },
     {
-      "name": "New Year Countdown Widget",
-      "package": "com.appora.newyearwidget",
-      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/new_year_widget.png",
-      "description": "🎉 Beautiful New Year countdown widget for your home screen."
-    },
-    {
       "name": "Jumper Boy",
       "package": "com.palasha.jumperboyadventures",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/jumper-boy-icon.png",
@@ -143,6 +131,18 @@
       "package": "com.palasha.basketballshoot",
       "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/basketball.png",
       "description": "Swipe, shoot, and score in this addictive basketball game."
+    },
+    {
+      "name": "World Cup Kickoff Time Converter",
+      "package": "com.appora.kickofftimeconverter",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/worldcup_time_converter.png",
+      "description": "Convert FIFA World Cup match time to your local timezone instantly"
+    },
+    {
+      "name": "Women's T20 World Cup Schedule",
+      "package": "com.appora.woment20worldcup",
+      "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/woment20worldcup.png",
+      "description": "Women’s T20 World Cup schedule, fixtures & match reminders."
     }
   ]
 }
