@@ -38,6 +38,24 @@
       "category": "Utility"
     },
     {
+      "name": "EMI & Loan Calculator – India",
+      "package": "com.appora.emicalculator",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/emi_calculator.png",
+      "description": "Calculate EMI instantly for home, car & personal loans. Made for India"
+    },
+    {
+      "name": "Torch Light",
+      "package": "com.appora.torchflashlight",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
+      "description": "Free flashlight torch with SOS & strobe – bright LED light for your phone"
+    },
+    {
+      "name": "BMI Calculator",
+      "package": "com.appora.bmicalculator",
+      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/bmi_calculator.png",
+      "description": "Calculate BMI in kg, lbs, cm, ft+in with Body Mass Index categories"
+    },
+    {
       "name": "Image to PDF Converter",
       "package": "com.appora.imagetopdf",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/image-to-pdf.png",
@@ -61,12 +79,6 @@
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/unit_calculator.png",
       "description": "Convert any unit instantly. Fast, accurate & easy — all units in one app."
     },
-    {
-      "name": "EMI & Loan Calculator – India",
-      "package": "com.appora.emicalculator",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/emi_calculator.png",
-      "description": "Calculate EMI instantly for home, car & personal loans. Made for India"
-    },
    {
       "name": "Internet Speed Test",
       "package": "com.appora.internetspeed",
@@ -77,18 +89,6 @@
       "package": "com.appora.qrscanner",
       "icon": "https://github.com/dark-Invader/appora-directory/raw/main/icons/qr_code_icon.png",
       "description": "Fast QR & barcode scanner. Scan, generate and share codes instantly."
-    },
-    {
-      "name": "BMI Calculator",
-      "package": "com.appora.bmicalculator",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/bmi_calculator.png",
-      "description": "Calculate BMI in kg, lbs, cm, ft+in with Body Mass Index categories"
-    },
-    {
-      "name": "Torch Light",
-      "package": "com.appora.torchflashlight",
-      "icon": "https://raw.githubusercontent.com/dark-Invader/appora-directory/main/icons/torchapp.png",
-      "description": "Free flashlight torch with SOS & strobe – bright LED light for your phone"
     },
      {
       "name": "Panchang & Muhurat",
